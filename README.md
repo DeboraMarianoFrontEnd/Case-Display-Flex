@@ -1,6 +1,6 @@
 # Flexbox - Posicionamento de Elementos 🌟
 
-Este site foi desenvolvido para colocar em prática o conhecimento adquirido no curso **Flexbox: Posicionando elementos na tela**, da Alura. Utilizei o **display: flex** para organizar e alinhar os elementos de forma eficiente, criando um layout moderno e responsivo.
+Este site foi desenvolvido para colocar em prática o conhecimento adquirido no curso **Flexbox: Posicionando elementos na tela**, da Alura. Utilizei o **display: flex** para organizar e alinhar os elementos de forma eficiente, criando um layout moderno.
 
 👉 **Acesse o site aqui:** [Projeto com Flexbox](https://exquisite-alpaca-2e5306.netlify.app/)
 
